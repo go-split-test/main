@@ -7,6 +7,6 @@ replace (
 	github.com/go-split-test/support => ./src/support
 )
 
-require github.com/go-split-test/foundation v0.0.0-00010101000000-000000000000
+require github.com/go-split-test/foundation v1.0.2
 
 require github.com/go-split-test/support v0.0.0-20230621023304-8ae5f6872200 // indirect
